@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 640 640" role="img" aria-label="Productafbeelding volgt later">
+  <rect width="640" height="640" fill="#E8EEF4"/>
+  <rect x="48" y="48" width="544" height="544" fill="#FFFFFF" stroke="#0D1B2A" stroke-opacity="0.08" stroke-width="2"/>
+  <circle cx="320" cy="292" r="56" fill="none" stroke="#0D1B2A" stroke-width="10"/>
+  <line x1="360" y1="332" x2="404" y2="376" stroke="#0D1B2A" stroke-width="10" stroke-linecap="round"/>
+  <text x="320" y="448" text-anchor="middle" fill="#5A6A7A" font-family="system-ui, sans-serif" font-size="22">Geen productfoto</text>
+</svg>
